@@ -1,2 +1,2 @@
-# otus-css-Matyusha
+# otus-css-matyusha
 Homework
